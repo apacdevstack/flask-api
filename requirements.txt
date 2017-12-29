@@ -1,0 +1,10 @@
+# ===================================================
+# Put all the dependencies here.
+# It is recommended to put depdencies with versions.
+# ===================================================
+
+
+Flask==0.12
+Flask-RESTful==0.3.5
+gunicorn>=19.7.1
+
